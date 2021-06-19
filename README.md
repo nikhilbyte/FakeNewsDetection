@@ -17,3 +17,5 @@ Fine tuned the Spanish Language model called [BETO](https://github.com/dccuchile
 This landed me on the 12th spot on the final [leaderboard](https://competitions.codalab.org/competitions/29545#results).
 
 
+## Original Idea
+[https://www.kaggle.com/c/google-quest-challenge/discussion/129978]
