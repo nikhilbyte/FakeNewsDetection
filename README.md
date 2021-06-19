@@ -11,7 +11,7 @@ Please refer to the [“**CodaLab Challange**”](https://competitions.codalab.o
 - Text: The complete text of the news.
 - Link: The URL where the news was published.
 
-Fine tuned the Spanish Language model called [BETO](https://github.com/dccuchile/beto) using  hugs [Huggingface Transformers library](https://github.com/huggingface/transformers).
+Fine tuned the Spanish Language model called [BETO](https://github.com/dccuchile/beto) using [Huggingface Transformers library](https://github.com/huggingface/transformers).
 
 
 This landed me on the 12th spot on the final [leaderboard](https://competitions.codalab.org/competitions/29545#results).
